@@ -1,0 +1,30 @@
+body {
+    height: 100%;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+html{
+    overflow-y:auto;
+    overflow-x:hidden;
+}
+
+.formlogin {
+    margin-top: 5%;
+}
+
+#btn-novoaluno {
+    margin-left: 10%;
+    margin-top: -0.5%;
+}
+
+#conteudo {
+    padding-bottom: 50px;
+}
+#teste {
+    margin-left: 50px;
+}
